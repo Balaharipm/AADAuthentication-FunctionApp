@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AADAuthentication_FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7089",
+      "launchBrowser": false
+    }
+  }
+}
